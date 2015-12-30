@@ -1,7 +1,7 @@
 name: TEMMA
 favicon: null
-layout_spectrum: 0.876027412712574
-typography_spectrum: 0.5591917363926768
+layout_spectrum: 0.2553
+typography_spectrum: 0.74085
 title: TEMMA HIRASAWA of MOBO
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.301984396064654
-  lightness: 0.0799690920393914
-  saturation: 0.12119110557250679
-  rhythmicContrast: 0.4413391179405153
+    - '#eee1d1'
+    - '#0aa595'
+    - '#baa894'
+    - '#312c32'
+    - '#ad6d4a'
+  brandStrength: 0.8125
+  lightness: 0.625
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
